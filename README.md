@@ -6,7 +6,7 @@
 - 🌱 Estudante de Python, SQL e ML.
 - 🌱 Comecei meus estudos em Data Science ao longo do último ano, e utilizo esse perfil pra documentar o que venho estudando.
 - 📫 Podes me contatar através do e-mail: almsm88@gmail.com
-- 👨‍💻 E me visitar outras plataformas:
+- 👨‍💻 E me visitar em outras plataformas:
 <br> LinkedIn: https://www.linkedin.com/in/andremoura88/
 <br> Medium: https://medium.com/@Andre.Moura88
 <br> Lattes: http://lattes.cnpq.br/4498262064963809
