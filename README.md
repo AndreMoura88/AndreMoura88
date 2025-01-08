@@ -2,7 +2,7 @@
 - 👋 Olá, meu nome é André Luiz Moura
 - 🎓 Sou bacharel em Engenharia Mecânica e doutor em Ciência dos Materiais pela Univasf.
 - 🎓 Tenho experiência em pesquisa acadêmica, 2 anos de mestrado com Material Cerâmico e Polimérico.
-- 🎓 Doutor com pesquisa em simulação computacional de fluxo em leito de pó.
+- 🎓 Doutor com pesquisa em simulação fluidodinâmica computacional de fluxo em leito de pó.
 - 🌱 Estudante de Python, SQL e ML.
 - 🌱 Comecei meus estudos em Dados ao longo dos últimos anos, e utilizo esse perfil pra documentar o que venho estudando.
 - 📫 Podes me contatar através do e-mail: almsm88@gmail.com
